@@ -1,0 +1,1 @@
+print "Welcome to Teddit!  We'll aggregate some news"
